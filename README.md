@@ -1,2 +1,2 @@
-# The-Sea-of-Games-team-project
+# More-Games-team-project
 Командный проект с сборником игр
