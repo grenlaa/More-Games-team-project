@@ -1,6 +1,6 @@
-﻿namespace WinFormsApp1_18._04._2025
+﻿namespace MoreGames
 {
-    partial class Form1
+    partial class Form4_pick_pair
     {/// <summary>
      /// Required designer variable.
      /// </summary>

@@ -1,9 +1,9 @@
 using System.Resources;
 using Timer = System.Threading.Timer;
 
-namespace WinFormsApp1_18._04._2025
+namespace MoreGames
 {
-    public partial class Form1 : Form
+    public partial class Form4_pick_pair : Form
     {
 
         public PictureBox[] pictureBoxes;
@@ -12,7 +12,7 @@ namespace WinFormsApp1_18._04._2025
         private int secondChoice = -1;
         private bool isProcessing = false;
         private ResourceManager resourceManager;
-        public Form1()
+        public Form4_pick_pair()
         {
             InitializeComponent();
 

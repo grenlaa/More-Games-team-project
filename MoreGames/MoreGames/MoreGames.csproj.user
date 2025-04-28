@@ -4,7 +4,7 @@
     <Compile Update="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Form4_test.cs">
+    <Compile Update="Form4pick_pair.cs">
       <SubType>Form</SubType>
     </Compile>
   </ItemGroup>
