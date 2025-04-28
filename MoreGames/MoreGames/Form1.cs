@@ -9,7 +9,9 @@ namespace MoreGames
 
         private void RememberGame_Click(object sender, EventArgs e)
         {
-
+            Form2_rememberGame formRG = new Form2_rememberGame();
+            formRG.Show();
+            this.Hide();
         }
 
         private void FlappyBird_Click(object sender, EventArgs e)
