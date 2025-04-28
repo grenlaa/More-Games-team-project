@@ -1,3 +1,5 @@
+using Игры;
+
 namespace MoreGames
 {
     public partial class Form1 : Form
@@ -19,6 +21,8 @@ namespace MoreGames
 
         private void TicTacToe_Click(object sender, EventArgs e)
         {
+            TicTacToe winForm = new TicTacToe();
+            winForm.ShowDialog();
 
         }
 

@@ -12,8 +12,8 @@
       }
     ],
     "additionalProbingPaths": [
-      "C:\\Users\\fursov.ga\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\fursov.ga\\.nuget\\packages",
+      "C:\\Users\\dolms\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\dolms\\.nuget\\packages",
       "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
     ],
     "configProperties": {

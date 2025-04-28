@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fursov.ga\\Desktop\\учеба\\GitHub\\More-Games-team-project\\MoreGames\\MoreGames\\MoreGames.csproj": {}
+    "C:\\git\\More-Games-team-project\\MoreGames\\MoreGames\\MoreGames.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fursov.ga\\Desktop\\учеба\\GitHub\\More-Games-team-project\\MoreGames\\MoreGames\\MoreGames.csproj": {
+    "C:\\git\\More-Games-team-project\\MoreGames\\MoreGames\\MoreGames.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fursov.ga\\Desktop\\учеба\\GitHub\\More-Games-team-project\\MoreGames\\MoreGames\\MoreGames.csproj",
+        "projectUniqueName": "C:\\git\\More-Games-team-project\\MoreGames\\MoreGames\\MoreGames.csproj",
         "projectName": "MoreGames",
-        "projectPath": "C:\\Users\\fursov.ga\\Desktop\\учеба\\GitHub\\More-Games-team-project\\MoreGames\\MoreGames\\MoreGames.csproj",
-        "packagesPath": "C:\\Users\\fursov.ga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fursov.ga\\Desktop\\учеба\\GitHub\\More-Games-team-project\\MoreGames\\MoreGames\\obj\\",
+        "projectPath": "C:\\git\\More-Games-team-project\\MoreGames\\MoreGames\\MoreGames.csproj",
+        "packagesPath": "C:\\Users\\dolms\\.nuget\\packages\\",
+        "outputPath": "C:\\git\\More-Games-team-project\\MoreGames\\MoreGames\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\fursov.ga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dolms\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
