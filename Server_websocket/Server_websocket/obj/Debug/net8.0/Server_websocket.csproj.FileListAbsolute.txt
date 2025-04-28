@@ -1,0 +1,89 @@
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\bin\Debug\net8.0\appsettings.json
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\bin\Debug\net8.0\Server_websocket.staticwebassets.endpoints.json
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\bin\Debug\net8.0\Server_websocket.exe
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\bin\Debug\net8.0\Server_websocket.deps.json
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\bin\Debug\net8.0\Server_websocket.runtimeconfig.json
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\bin\Debug\net8.0\Server_websocket.dll
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\bin\Debug\net8.0\Server_websocket.pdb
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.AssemblyInfoInputs.cache
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.AssemblyInfo.cs
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.csproj.CoreCompileInputs.cache
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.sourcelink.json
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\scopedcss\bundle\Server_websocket.styles.css
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets\msbuild.Server_websocket.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets\msbuild.Server_websocket.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets\msbuild.build.Server_websocket.props
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Server_websocket.props
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Server_websocket.props
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.dll
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\refint\Server_websocket.dll
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.pdb
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.genruntimeconfig.cache
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project2\Server_websocket\Server_websocket\obj\Debug\net8.0\ref\Server_websocket.dll
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\bin\Debug\net8.0\appsettings.Development.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\bin\Debug\net8.0\appsettings.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\bin\Debug\net8.0\Server_websocket.staticwebassets.endpoints.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\bin\Debug\net8.0\Server_websocket.exe
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\bin\Debug\net8.0\Server_websocket.deps.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\bin\Debug\net8.0\Server_websocket.runtimeconfig.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\bin\Debug\net8.0\Server_websocket.dll
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\bin\Debug\net8.0\Server_websocket.pdb
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.AssemblyInfoInputs.cache
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.AssemblyInfo.cs
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.csproj.CoreCompileInputs.cache
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.MvcApplicationPartsAssemblyInfo.cache
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\scopedcss\bundle\Server_websocket.styles.css
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets.build.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets.development.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets\msbuild.Server_websocket.Microsoft.AspNetCore.StaticWebAssets.props
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets\msbuild.Server_websocket.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets\msbuild.build.Server_websocket.props
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Server_websocket.props
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Server_websocket.props
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets.pack.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.dll
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\refint\Server_websocket.dll
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.pdb
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.genruntimeconfig.cache
+E:\IT TOP УЧЕБНАЯ ГРУППА\Server_websocket\Server_websocket\obj\Debug\net8.0\ref\Server_websocket.dll
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\bin\Debug\net8.0\appsettings.Development.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\bin\Debug\net8.0\appsettings.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\bin\Debug\net8.0\Server_websocket.staticwebassets.endpoints.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\bin\Debug\net8.0\Server_websocket.exe
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\bin\Debug\net8.0\Server_websocket.deps.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\bin\Debug\net8.0\Server_websocket.runtimeconfig.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\bin\Debug\net8.0\Server_websocket.dll
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\bin\Debug\net8.0\Server_websocket.pdb
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.AssemblyInfoInputs.cache
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.AssemblyInfo.cs
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.csproj.CoreCompileInputs.cache
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.MvcApplicationPartsAssemblyInfo.cache
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.sourcelink.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\scopedcss\bundle\Server_websocket.styles.css
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets.build.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets.development.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets\msbuild.Server_websocket.Microsoft.AspNetCore.StaticWebAssets.props
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets\msbuild.Server_websocket.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets\msbuild.build.Server_websocket.props
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Server_websocket.props
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Server_websocket.props
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets.pack.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.dll
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\refint\Server_websocket.dll
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.pdb
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\Server_websocket.genruntimeconfig.cache
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\Server_websocket\Server_websocket\obj\Debug\net8.0\ref\Server_websocket.dll

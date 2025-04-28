@@ -34,6 +34,8 @@
             Tetris = new Button();
             Create_room = new Button();
             Connect_room = new Button();
+            CreateServer = new Button();
+            openFileDialog1 = new OpenFileDialog();
             SuspendLayout();
             // 
             // RememberGame
@@ -106,11 +108,26 @@
             Connect_room.UseVisualStyleBackColor = true;
             Connect_room.Click += Connect_room_Click;
             // 
+            // CreateServer
+            // 
+            CreateServer.Location = new Point(241, 456);
+            CreateServer.Name = "CreateServer";
+            CreateServer.Size = new Size(174, 62);
+            CreateServer.TabIndex = 5;
+            CreateServer.Text = "Создать сервер";
+            CreateServer.UseVisualStyleBackColor = true;
+            CreateServer.Click += CreateServer_Click;
+            // 
+            // openFileDialog1
+            // 
+            openFileDialog1.FileName = "openFileDialog1";
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(1029, 597);
+            Controls.Add(CreateServer);
             Controls.Add(Connect_room);
             Controls.Add(Create_room);
             Controls.Add(Tetris);
@@ -120,7 +137,6 @@
             Controls.Add(RememberGame);
             Name = "Form1";
             Text = "Form1";
-
             ResumeLayout(false);
         }
 
@@ -133,5 +149,7 @@
         private Button Tetris;
         private Button Create_room;
         private Button Connect_room;
+        private Button CreateServer;
+        private OpenFileDialog openFileDialog1;
     }
 }

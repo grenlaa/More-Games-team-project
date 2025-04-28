@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\fursov.ga\\Desktop\\учеба\\GitHub\\More-Games-team-project\\MoreGames\\MoreGames\\MoreGames.csproj": {}
+    "E:\\IT TOP УЧЕБНАЯ ГРУППА\\GitHub\\More-Games-team-project\\MoreGames_multiplayer\\MoreGames\\MoreGames.csproj": {}
   },
   "projects": {
-    "C:\\Users\\fursov.ga\\Desktop\\учеба\\GitHub\\More-Games-team-project\\MoreGames\\MoreGames\\MoreGames.csproj": {
+    "E:\\IT TOP УЧЕБНАЯ ГРУППА\\GitHub\\More-Games-team-project\\MoreGames_multiplayer\\MoreGames\\MoreGames.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\fursov.ga\\Desktop\\учеба\\GitHub\\More-Games-team-project\\MoreGames\\MoreGames\\MoreGames.csproj",
+        "projectUniqueName": "E:\\IT TOP УЧЕБНАЯ ГРУППА\\GitHub\\More-Games-team-project\\MoreGames_multiplayer\\MoreGames\\MoreGames.csproj",
         "projectName": "MoreGames",
-        "projectPath": "C:\\Users\\fursov.ga\\Desktop\\учеба\\GitHub\\More-Games-team-project\\MoreGames\\MoreGames\\MoreGames.csproj",
-        "packagesPath": "C:\\Users\\fursov.ga\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\fursov.ga\\Desktop\\учеба\\GitHub\\More-Games-team-project\\MoreGames\\MoreGames\\obj\\",
+        "projectPath": "E:\\IT TOP УЧЕБНАЯ ГРУППА\\GitHub\\More-Games-team-project\\MoreGames_multiplayer\\MoreGames\\MoreGames.csproj",
+        "packagesPath": "C:\\Users\\Home\\.nuget\\packages\\",
+        "outputPath": "E:\\IT TOP УЧЕБНАЯ ГРУППА\\GitHub\\More-Games-team-project\\MoreGames_multiplayer\\MoreGames\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\fursov.ga\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Home\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -26,6 +26,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -44,17 +45,11 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.100"
+        "SdkAnalysisLevel": "9.0.200"
       },
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
-          "dependencies": {
-            "Microsoft.AspNetCore": {
-              "target": "Package",
-              "version": "[2.3.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
@@ -74,7 +69,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.102/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

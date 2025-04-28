@@ -1,3 +1,5 @@
+using System.Diagnostics;
+
 namespace MoreGames
 {
     public partial class Form1 : Form
@@ -45,8 +47,16 @@ namespace MoreGames
 
         protected override void OnFormClosing(FormClosingEventArgs e)
         {
-            _webHost?.StopAsync().GetAwaiter().GetResult(); // Остановка при закрытии
-            base.OnFormClosing(e);
+
+        }
+
+        private void CreateServer_Click(object sender, EventArgs e)
+        {
+            if (openFileDialog1.ShowDialog() == DialogResult.Cancel)
+                return;
+            // получаем выбранный файл
+            string filename = openFileDialog1.FileName;
+            Process.Start(filename);
         }
     }
 }
