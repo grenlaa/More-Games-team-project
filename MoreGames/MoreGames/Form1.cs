@@ -24,7 +24,7 @@ namespace MoreGames
 
         private void Memo_Click(object sender, EventArgs e)
         {
-            Form4pick_pair pick_pair = new Form4pick_pair();
+            Form4_pick_pair pick_pair = new Form4_pick_pair();
             pick_pair.Show();
         }
 

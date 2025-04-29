@@ -15,3 +15,5 @@ C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project\MoreGames\M
 C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\MoreGames.pdb
 C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\MoreGames.genruntimeconfig.cache
 C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\ref\MoreGames.dll
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\MoreGames.Form4_pick_pair.resources
+C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\MoreGames.Resource1.resources
