@@ -1,3 +1,5 @@
+using MoreGames;
+
 namespace MoreGames
 {
     public partial class Form1 : Form
@@ -24,7 +26,7 @@ namespace MoreGames
 
         private void Memo_Click(object sender, EventArgs e)
         {
-            Form4_pick_pair pick_pair = new Form4_pick_pair();
+            Form4pick_pair pick_pair = new Form4pick_pair();
             pick_pair.Show();
         }
 
