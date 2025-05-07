@@ -1,0 +1,10 @@
+C:\Users\admiin\source\repos\Flappy goat\bin\Debug\Flappy goat.exe.config
+C:\Users\admiin\source\repos\Flappy goat\bin\Debug\Flappy goat.exe
+C:\Users\admiin\source\repos\Flappy goat\bin\Debug\Flappy goat.pdb
+C:\Users\admiin\source\repos\Flappy goat\obj\Debug\Flappy goat.csproj.AssemblyReference.cache
+C:\Users\admiin\source\repos\Flappy goat\obj\Debug\Flappy_goat.Form1.resources
+C:\Users\admiin\source\repos\Flappy goat\obj\Debug\Flappy_goat.Properties.Resources.resources
+C:\Users\admiin\source\repos\Flappy goat\obj\Debug\Flappy goat.csproj.GenerateResource.cache
+C:\Users\admiin\source\repos\Flappy goat\obj\Debug\Flappy goat.csproj.CoreCompileInputs.cache
+C:\Users\admiin\source\repos\Flappy goat\obj\Debug\Flappy goat.exe
+C:\Users\admiin\source\repos\Flappy goat\obj\Debug\Flappy goat.pdb
