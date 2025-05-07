@@ -15,3 +15,22 @@ C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project\MoreGames\M
 C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\MoreGames.pdb
 C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\MoreGames.genruntimeconfig.cache
 C:\Users\fursov.ga\Desktop\учеба\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\ref\MoreGames.dll
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\MoreGames.Flappy_goat.resources
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\MoreGames.Form1.resources
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\MoreGames.csproj.GenerateResource.cache
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\MoreGames.GeneratedMSBuildEditorConfig.editorconfig
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\MoreGames.AssemblyInfoInputs.cache
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\MoreGames.AssemblyInfo.cs
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\MoreGames.csproj.CoreCompileInputs.cache
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\MoreGames.sourcelink.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\MoreGames.dll
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\refint\MoreGames.dll
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\MoreGames.pdb
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\bin\Debug\net8.0-windows\MoreGames.exe
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\bin\Debug\net8.0-windows\MoreGames.deps.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\bin\Debug\net8.0-windows\MoreGames.runtimeconfig.json
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\bin\Debug\net8.0-windows\MoreGames.dll
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\bin\Debug\net8.0-windows\MoreGames.pdb
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\MoreGames.genruntimeconfig.cache
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\ref\MoreGames.dll
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\MoreGames\obj\Debug\net8.0-windows\MoreGames.Resource1.resources

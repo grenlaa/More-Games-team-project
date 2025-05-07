@@ -8,3 +8,13 @@ C:\Users\admiin\source\repos\Flappy goat\obj\Debug\Flappy goat.csproj.GenerateRe
 C:\Users\admiin\source\repos\Flappy goat\obj\Debug\Flappy goat.csproj.CoreCompileInputs.cache
 C:\Users\admiin\source\repos\Flappy goat\obj\Debug\Flappy goat.exe
 C:\Users\admiin\source\repos\Flappy goat\obj\Debug\Flappy goat.pdb
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\Flappy goat\bin\Debug\Flappy goat.exe.config
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\Flappy goat\bin\Debug\Flappy goat.exe
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\Flappy goat\bin\Debug\Flappy goat.pdb
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\Flappy goat\obj\Debug\Flappy goat.csproj.AssemblyReference.cache
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\Flappy goat\obj\Debug\Flappy_goat.Properties.Resources.resources
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\Flappy goat\obj\Debug\Flappy goat.csproj.GenerateResource.cache
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\Flappy goat\obj\Debug\Flappy goat.csproj.CoreCompileInputs.cache
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\Flappy goat\obj\Debug\Flappy goat.exe
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\Flappy goat\obj\Debug\Flappy goat.pdb
+E:\IT TOP УЧЕБНАЯ ГРУППА\GitHub\More-Games-team-project\MoreGames\Flappy goat\obj\Debug\Flappy_goat.Flappy_goat.resources

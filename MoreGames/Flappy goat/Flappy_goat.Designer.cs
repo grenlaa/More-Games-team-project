@@ -1,6 +1,6 @@
 ﻿namespace Flappy_goat
 {
-    partial class Form1
+    partial class Flappy_goat
     {
         /// <summary>
         /// Обязательная переменная конструктора.

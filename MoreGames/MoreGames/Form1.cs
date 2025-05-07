@@ -14,6 +14,8 @@ namespace MoreGames
 
         private void FlappyBird_Click(object sender, EventArgs e)
         {
+            Flappy_goat flappy_Goat = new Flappy_goat();
+            flappy_Goat.Show();
 
         }
 

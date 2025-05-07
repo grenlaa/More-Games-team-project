@@ -1,21 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.ComponentModel;
-using System.Data;
-using System.Drawing;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Forms;
+﻿
 
-namespace Flappy_goat
+namespace MoreGames
 {
-    public partial class Form1 : Form
+    public partial class Flappy_goat : Form
     {
         int pipeSpeed = 13;
         int gravity = 15;
         int score = 0;
-        public Form1()
+        public Flappy_goat()
         {
             
 
